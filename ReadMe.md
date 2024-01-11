@@ -1,6 +1,6 @@
 <div align = "center">
   
-<img width=100 src="./Assets/node.png">
+<img width=100 src="./Resources/face-scan.png">
 
 # 🫠 "KnowWho" - A Face Recognizer Project  🫠
 
